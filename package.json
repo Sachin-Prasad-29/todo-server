@@ -1,0 +1,19 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "A simple todo app with user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachin-Prasad-29/todo-server.git"
+  },
+  "author": "Sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachin-Prasad-29/todo-server/issues"
+  },
+  "homepage": "https://github.com/Sachin-Prasad-29/todo-server#readme"
+}
