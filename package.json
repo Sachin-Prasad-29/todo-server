@@ -5,7 +5,8 @@
     "main": "src/index.js",
     "scripts": {
         "start:dev": "ts-node-dev src/index.ts",
-        "start":"node dist/src/index.js"
+        "start":"node dist/src/index.js",
+        "build":"tsc"
     },
     "repository": {
         "type": "git",
